@@ -1,7 +1,7 @@
 name: Github Action No. 2
 
 on:
-  push: branches:["master"]
+  push: branches:["main"]
 
 jobs:
   build:
