@@ -1,3 +1,44 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "value": "hi",
+      "isCompleted": false,
+      "id": 1
+    },
+    {
+      "value": "Hello",
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "value": "man",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "value": "A",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "value": "B",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "value": "C",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "value": "D",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "value": "E",
+      "isCompleted": false,
+      "id": 8
+    }
+  ]
 }
