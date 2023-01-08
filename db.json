@@ -1,21 +1,6 @@
 {
   "todos": [
     {
-      "value": "hi",
-      "isCompleted": false,
-      "id": 1
-    },
-    {
-      "value": "Hello",
-      "isCompleted": false,
-      "id": 2
-    },
-    {
-      "value": "man",
-      "isCompleted": false,
-      "id": 3
-    },
-    {
       "value": "A",
       "isCompleted": false,
       "id": 4
